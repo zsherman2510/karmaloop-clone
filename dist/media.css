@@ -1,0 +1,33 @@
+/*  993- 1200*/
+@media only screen and (max-width: 1200px) {
+  .navbar-collapse.collapse {
+    display: none!important;
+}
+.navbar-toggle {
+  display: block;
+}
+.navbar-collapse {
+  border-top: 1px solid transparent;
+  box-shadow: inset 0 1px 0 rgb(255, 18, 18);
+}
+
+.navbar-brand {
+  border: solid 2px white;
+  text-align: center;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+  color: white;
+  padding: 7px;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+}
+/*  769- 992*/
+@media only screen and (max-width: 992px) {
+
+}
+/*  577- 768*/
+@media only screen and (max-width: 768px) {
+
+}
